@@ -138,11 +138,11 @@ https://vidsrc.to/embed/movie/41154?sub.file=https://dl.dropbox.com/scl/fi/w6qws
 
 
 # Sinhala sub:-
+https://vidsrc.to/embed/movie/122917?sub.file=https://dl.dropbox.com/scl/fi/sm2jyp1to0vvkrkqb2dt3/The-Battle-of-the-Five-Armies-Sinhala.srt?rlkey=nunrsldif7fbxjzteafehab6y&dl=0sub.label=sub
 
-
-#
+# The Amazing Spider-Man
 # English sub:-
-
+https://vidsrc.to/embed/movie/1930?sub.file=https://dl.dropbox.com/scl/fi/jp0u58fep3e50939ghkv7/The-Amazing-Spider-Man-2012-23.976-fps-136.17-min-version_must-1-sec-forwarded-until-m.srt?rlkey=0kx3m7a96gupbwvsxbl6yp4on&dl=0sub.label=sub
 
 # Sinhala sub:-
 
