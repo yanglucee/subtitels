@@ -146,59 +146,68 @@ https://vidsrc.to/embed/movie/1930?sub.file=https://dl.dropbox.com/scl/fi/jp0u58
 
 # Sinhala sub:-
 
-#
+# Robin Hood
 # English sub:-
-
+https://vidsrc.to/embed/movie/20662?sub.file=https://dl.dropbox.com/scl/fi/ubd41llm51l1g1mhgjgdj/Robin.Hood.2010.UNRATED.DC.BDRip.AC3.XviD-lOVE.srt?rlkey=8nb83j0f6zf6u80wm2b2s9cvz&dl=00sub.label=sub
 
 # Sinhala sub:-
 
-#
+# The Hobbit: The Desolation of Smaug
 # English sub:-
-
+https://vidsrc.to/embed/movie/57158?sub.file=https://dl.dropbox.com/scl/fi/daswqkhxkx8kx3p8njdd4/The.Hobbit.The.Desolation.of.Smaug.2013.EXTENDED.1080p.BluRay.H264.AAC-RARBG.eng.srt?rlkey=smgl21f9omw4jrdvm9oxo587m&dl=00sub.label=sub
 
 # Sinhala sub:-
+https://vidsrc.to/embed/movie/57158?sub.file=https://dl.dropbox.com/scl/fi/iej2gw4h8at70uvfoznhd/the.hobbit.the.desolation.of.smaug.2013.extended.720p.bluray.x264-nezu.srt?rlkey=fvp8wc9yweadkv94gc2z3boch&dl=00sub.label=sub
 
-#
+# The Golden Compass
 # English sub:-
-
+https://vidsrc.to/embed/movie/2268?sub.file=https://dl.dropbox.com/scl/fi/rsudpp716ef6wy3xxverw/The.Golden.Compass.2007.1080p.BluRay.x264.YIFY.en.srt?rlkey=66a1f91i4r4tmnk4vciaun1u7&dl=00sub.label=sub
 
 # Sinhala sub:-
+https://vidsrc.to/embed/movie/2268?sub.file=https://dl.dropbox.com/scl/fi/1vb1p132xvqkzd60tb6nj/The.Golden.Compass.2007.1080p.BluRay.x264.YIFY.srt?rlkey=qvyk6hu2xnbkyshdx37shmca4&dl=00sub.label=sub
 
-#
+# King Kong
 # English sub:-
-
+https://vidsrc.to/embed/movie/254?sub.file=https://dl.dropbox.com/scl/fi/soy5dpxj1n0xz5yym4mjt/King-Kong-2005-Extended-Cut-1080p-HDDVD-BluRay-DTS-x264-ESiR.srt?rlkey=li80bjh04p9phmugyekddyjyb&dl=00sub.label=sub
 
 # Sinhala sub:-
+https://vidsrc.to/embed/movie/254?sub.file=https://dl.dropbox.com/scl/fi/4kxjg9iwvsrl64bx13c4e/KngKng.2005.Extended.BRRipdd.srt?rlkey=4i84138n20tio1zwz3kh2h5eg&dl=00sub.label=sub
 
-#
+# Titanic
 # English sub:-
-
+https://vidsrc.to/embed/movie/597?sub.file=https://dl.dropbox.com/scl/fi/fxebpc9nrwloitvh66mm4/Titanic.1997.Open.Matte.BluRay.720p.1.4GB.x264.Ganool.srt?rlkey=5g0kr8bfwvj7m3puzo7qtxia8&dl=00sub.label=sub
 
 # Sinhala sub:-
+https://vidsrc.to/embed/movie/597?sub.file=https://dl.dropbox.com/scl/fi/7pgwk7z927t9uwenow3yh/Titanic.1997.720p.BluRay.x264-YTS.AG.srt?rlkey=ml6001heumh4ro0sffbadvafw&dl=00sub.label=sub
 
-#
+# Captain America: Civil War
 # English sub:-
-
+https://vidsrc.to/embed/movie/271110?sub.file=https://dl.dropbox.com/scl/fi/igijnw2aezow8v3pb1tr3/Captain.America.Civil.War.2016.1080p.BluRay.X264-AMIABLE.srt?rlkey=5ed4e29lzjervuyvtmyo5eq8c&dl=00sub.label=sub
 
 # Sinhala sub:-
+https://vidsrc.to/embed/movie/271110?sub.file=https://dl.dropbox.com/scl/fi/8fihkotg3cz7xoi6t5p0g/Captain.America.Civil.War.2016.720p.BRRip.x264.AAC-ETRG.srt?rlkey=4d2i7u094j7rzcpic5ttz8lrd&dl=00sub.label=sub
 
-#
+# Battleship
 # English sub:-
-
+https://vidsrc.to/embed/movie/44833?sub.file=https://dl.dropbox.com/scl/fi/x8b27qfy4kerbaqdteawy/Battleship-2012-.eng.srt?rlkey=hu9yf5ypj7p9vxyn3cnyc2t35&dl=00sub.label=sub
 
 # Sinhala sub:-
+https://vidsrc.to/embed/movie/44833?sub.file=https://dl.dropbox.com/scl/fi/efydbroxnbwl2to5b1c32/Battleship.2012.BluRay.720p.x264.YIFY.srt?rlkey=vpvy2jzwrxduy0djyj2lgccfs&dl=00sub.label=sub
 
-#
+# Jurassic World
 # English sub:-
-
+https://vidsrc.to/embed/movie/135397?sub.file=https://dl.dropbox.com/scl/fi/rhzx2rghbrpm2m20sqyn8/Jurassic-World-2015-English-SDH.srt?rlkey=4paa63u7vesiy9nkrq5w19r8d&dl=00sub.label=sub
 
 # Sinhala sub:-
+# A shit
+https://vidsrc.to/embed/movie/135397?sub.file=https://dl.dropbox.com/scl/fi/71714xmccqyosyu8g44ep/Jurassic.World.2015.HDRip.XviD.AC3-EVO.srt?rlkey=x20dzux4cxnajf910dcixt8ir&dl=00sub.label=sub
 
-#
+# Skyfall
 # English sub:-
-
+https://vidsrc.to/embed/movie/37724?sub.file=https://dl.dropbox.com/scl/fi/cms9kojmdmev7eut0t6n0/Skyfall.2012.REMASTERED.BluRay.H264.AAC-RARBG.en.srt?rlkey=bvmbjck2kldp5pefa67t96fsk&dl=00sub.label=sub
 
 # Sinhala sub:-
+https://vidsrc.to/embed/movie/37724?sub.file=https://dl.dropbox.com/scl/fi/cypp47wlqckssntcnvkw1/Skyfall.2012.720p.BrRip.x264.YIFY.srt?rlkey=yvkmbox4isd7qxgdc37r7xk3t&dl=00sub.label=sub
 
 #
 # English sub:-
