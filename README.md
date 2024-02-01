@@ -209,27 +209,106 @@ https://vidsrc.to/embed/movie/37724?sub.file=https://dl.dropbox.com/scl/fi/cms9k
 # Sinhala sub:-
 https://vidsrc.to/embed/movie/37724?sub.file=https://dl.dropbox.com/scl/fi/cypp47wlqckssntcnvkw1/Skyfall.2012.720p.BrRip.x264.YIFY.srt?rlkey=yvkmbox4isd7qxgdc37r7xk3t&dl=00sub.label=sub
 
-#
+# Spider-Man 2
+# English sub:-
+https://vidsrc.to/embed/movie/558
+already in video
+
+# Sinhala sub:-
+
+
+# Iron Man 3 
+# English sub:-
+https://vidsrc.to/embed/movie/68721
+already in video
+
+# Sinhala sub:-
+https://vidsrc.to/embed/movie/68721?sub.file=https://dl.dropbox.com/scl/fi/mkp7ppb2gx1epz1sq6h1d/Iron-Man-3-2013-WEBRip-XviD-LTRG.srt?rlkey=9knx3b60z0sgxun3qm4wyu529&dl=00sub.label=sub
+not clear
+
+# Alice in Wonderland
+# English sub:-
+https://vidsrc.to/embed/movie/12155?sub.file=https://dl.dropbox.com/scl/fi/ivs3xm83jocznkc2tgxmi/Alice-in-Wonderland-2010-imdb-tt1014759-Bluray-1080p-AC3-5.1-x264-EbP.en.srt?rlkey=k8jj4d65cdwsq34msanw74aol&dl=00sub.label=sub
+
+# Sinhala sub:-
+https://vidsrc.to/embed/movie/12155?sub.file=https://dl.dropbox.com/scl/fi/h8314my7kps9wn1qsrxg0/Alice.in.Wonderland.2010.1080p.BluRay.x264.YIFY.srt?rlkey=3t6jpvjsr1ga04w24z6mvivwf&dl=00sub.label=sub
+
+# X-Men: The Last Stand
+# English sub:-
+https://vidsrc.to/embed/movie/36668
+
+# Sinhala sub:-
+
+
+# Monsters University
+# English sub:-
+https://vidsrc.to/embed/movie/62211?sub.file=https://dl.dropbox.com/scl/fi/vdp33ym3199vor8gu0xxx/Monsters.University.2013.1CD.BRRip.XviD.AC3.aTuM.srt?rlkey=ds2zimrnxcqh6q06mawo1tob7&dl=00sub.label=sub
+
+# Sinhala sub:-
+https://vidsrc.to/embed/movie/62211?sub.file=https://dl.dropbox.com/scl/fi/u540vrg9u6rhzx28indds/Monsters-University-2013-HDRip-x264-AC3-UNiQUE.srt?rlkey=0om87pm11sgi5pm6fmkmhq84q&dl=00sub.label=sub
+not clear
+
+# Transformers: Revenge of the Fallen
+# English sub:-
+https://vidsrc.to/embed/movie/8373?sub.file=https://dl.dropbox.com/scl/fi/2j9fz40tfsm0zovdk8bha/Transformers.Revenge.of.the.Fallen.2009.BluRay.x264.TrueHD.7.1.Atmos-SWTYBLZ.srt?rlkey=byda1ll4lwhx17x1pb0685ln3&dl=00sub.label=sub
+
+# Sinhala sub:-
+https://vidsrc.to/embed/movie/8373?sub.file=https://dl.dropbox.com/scl/fi/631cn765he9adg2re5qow/Transformers.Revenge.of.the.Fallen.2009.IMAX.Edition.720p.BRRip.x264-Fastbet99.srt?rlkey=qbz1esh3rjvhsg4sd3g8n0cfl&dl=00sub.label=sub
+
+# Transformers: Age of Extinction
+# English sub:-
+https://vidsrc.to/embed/movie/91314?sub.file=https://dl.dropbox.com/scl/fi/673pl5bzcam86ws56037j/Transformers-Age-of-Extinction-2014-720p-R6__Www.JiGHiL.Com.srt?rlkey=ifaqqkgyr2054hyp8g3izr6fh&dl=00sub.label=sub
+
+# Sinhala sub:-
+https://vidsrc.to/embed/movie/91314?sub.file=https://dl.dropbox.com/scl/fi/6tl7vfduuw1nhbxsdp63s/Transformers.Age.of.Extinction.2014.HDRip.XViD.AC3-juggs-ETRG.srt?rlkey=0jfkof0zo43q7gprfee78yr8a&dl=00sub.label=sub
+
+# Oz: The Great and Powerful
+# English sub:-
+https://vidsrc.to/embed/movie/68728?sub.file=https://dl.dropbox.com/scl/fi/d8dukly7resgos16vr8w0/Oz.the.Great.and.Powerful.2013.1080p.BluRay.x264.YIFY.en.srt?rlkey=xf11q34iocz13ismubh9t64nh&dl=00sub.label=sub
+
+# Sinhala sub:-
+https://vidsrc.to/embed/movie/68728?sub.file=https://dl.dropbox.com/scl/fi/y4zka5fixgkgpg72i7rhr/Oz.the.Great.and.Powerful.2013.720p.BluRay.x264.YIFY.srt?rlkey=o08nmge491wp2o3m6c114gtul&dl=00sub.label=sub
+
+# The Amazing Spider-Man 2
+# English sub:-
+https://vidsrc.to/embed/movie/102382?sub.file=https://dl.dropbox.com/scl/fi/laqsz8t493dkqohi8xk8d/The-Amazing-Spiderman-2-2014-720p-BluRay-BRRip-x264-900MB.srt?rlkey=biqj5640l7z3g02ok01avzttq&dl=00sub.label=sub
+
+# Sinhala sub:-
+https://vidsrc.to/embed/movie/102382?sub.file=https://dl.dropbox.com/scl/fi/p6i1c41n63x5mqdx3vcoj/The-Amazing-Spider-Man-2-2014-RETAIL-HDRip-675MB-Micromkv.srt?rlkey=ssnyh2ep673jbr43mlorkz0ul&dl=00sub.label=sub
+
+# TRON: Legacy
+# English sub:-
+https://vidsrc.to/embed/movie/20526
+
+# Sinhala sub:-
+https://vidsrc.to/embed/movie/20526?sub.file=https://dl.dropbox.com/scl/fi/j4mg2xx5aml6qg8zqif95/TRON.Legacy.2010.BrRip.H264-deff.srt?rlkey=0o87k3m92irbeujtbhl34haiv&dl=00sub.label=sub
+
+# Cars 2
+# English sub:-
+https://vidsrc.to/embed/movie/49013
+
+# Sinhala sub:-
+https://vidsrc.to/embed/movie/49013?sub.file=https://dl.dropbox.com/scl/fi/my8tlyi60wk5mspa134oc/Cars.2.2011.720p.BrRip.264.YIFY.srt?rlkey=hrzwxxq31bekqj8ywhd3jy4up&dl=00sub.label=sub
+
+# Green Lantern
+# English sub:-
+https://vidsrc.to/embed/movie/44912
+
+# Sinhala sub:-
+https://vidsrc.to/embed/movie/44912?sub.file=https://dl.dropbox.com/scl/fi/na2gdzdny7qau6fhzd302/Green-Lantern-2011-Extended-720p-BRRip-Ali-Baloch-Silver-RG.srt?rlkey=2z87e2srme5dsm0lmhy46pnby&dl=00sub.label=sub
+not good
+
+# Toy Story 3  
+# English sub:-
+https://vidsrc.to/embed/movie/10193 
+
+# Sinhala sub:-
+
+
+# Terminator Salvation
 # English sub:-
 
 
 # Sinhala sub:-
 
-#
-# English sub:-
-
-
-# Sinhala sub:-
-
-#
-# English sub:-
-
-
-# Sinhala sub:-
-
-#
-# English sub:-
-
-
-# Sinhala sub:-
-
+ 
