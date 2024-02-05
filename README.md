@@ -1,4 +1,4 @@
-# subtitels
+# subtitles
 #
 # avatar 2009
 # English sub:-
