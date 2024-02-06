@@ -307,6 +307,42 @@ https://vidsrc.to/embed/movie/10193
 
 # Terminator Salvation
 # English sub:-
+https://vidsrc.to/embed/movie/534?sub.file=https://dl.dropbox.com/scl/fi/7kaekqzs28kr6aqllu2yt/Terminator_4_Salvation_DC_540p_BluRay_QEBS_5_AAC20_ANDROID_IPAD_MP4-FASM.srt?rlkey=jaqub13emi7j5l9d7hzaf9iwk&dl=00sub.label=sub
+
+# Sinhala sub:-
+
+
+# Furious 7
+# English sub:-
+https://vidsrc.to/embed/movie/168259?sub.file=https://dl.dropbox.com/scl/fi/62xl89h3tdyqvxevclai2/Furious.Seven.2015.EXTENDED.BDRip.x264-SPARKS.srt?rlkey=987b5k0sqou04gkuwy2zbiye2&dl=00sub.label=sub
+
+# Sinhala sub:-
+https://vidsrc.to/embed/movie/168259?sub.file=https://dl.dropbox.com/scl/fi/v7zui50a53arq5fjfqzu4/Furious-Seven-2015-1080p-BrRip-x264-YIFY.srt?rlkey=jadvk0brzpa6xf9hu6mhuqp4b&dl=00sub.label=sub
+
+# World War Z
+# English sub:-
+https://vidsrc.to/embed/movie/72190?sub.file=https://dl.dropbox.com/scl/fi/2f5ae3355pz3q6jrpa568/World-War-Z-2013-UNRATED-CUT-BRRip-XviD-ETRG.srt?rlkey=qqt1k8ap0z9764b98x4vfwdwu&dl=00sub.label=sub
+
+# Sinhala sub:-
+https://vidsrc.to/embed/movie/72190?sub.file=https://dl.dropbox.com/scl/fi/qrrfz3js4r9okradxaj82/World.War.Z.2013.1080p.BluRay.x264.YIFY.srt?rlkey=mxbb6if4jc2r2r4myfn03vrwa&dl=00sub.label=sub
+bad one
+
+# X-Men: Days of Future Past
+# English sub:-
+  
+
+# Sinhala sub:-
+
+
+#
+# English sub:-
+
+
+# Sinhala sub:-
+
+ 
+#
+# English sub:-
 
 
 # Sinhala sub:-
